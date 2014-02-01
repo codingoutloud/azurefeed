@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>RSS Feeds Relevant to Windows Azure</title>
+    </head>
+    <body>
+        <outline title="Official Windows Azure Product Team and Team Member Blogs" text="Windows Azure Product Team - official blogs and blogs of team members.">
+            <outline text="Windows Azure" title="Windows Azure"
+                type="rss"
+                xmlUrl="http://blogs.msdn.com/windowsazure/rss.xml" htmlUrl="http://blogs.msdn.com/b/windowsazure/"/>
+            <outline text="Windows Azure Storage Team Blog"
+                title="Windows Azure Storage Team Blog" type="rss"
+                xmlUrl="http://blogs.msdn.com/b/windowsazurestorage/rss.aspx" htmlUrl="http://blogs.msdn.com/b/windowsazurestorage/"/>
+            <outline text="Windows Azure OS Updates"
+                title="Windows Azure OS Updates" type="rss"
+                xmlUrl="http://services.social.microsoft.com/feeds/feed/WindowsAzureOSUpdates" htmlUrl="http://msdn.com/windowsazure"/>
+
+            <outline text="Brent's Notepad (Brent Stineman)" 
+                title="Brent's Notepad (Brent Stineman)" type="rss" 
+                xmlUrl="http://brentdacodemonkey.wordpress.com/feed/" htmlUrl="http://brentdacodemonkey.wordpress.com/"/>
+            <outline text="Clemens Vasters."
+                title="Clemens Vasters." type="rss"
+                xmlUrl="http://blogs.msdn.com/b/clemensv/rss.aspx" htmlUrl="http://blogs.msdn.com/b/clemensv/"/>
+            <outline text="Cloud Identity (Vittorio Bertocci)" title="Cloud Identity (Vittorio Bertocci)" type="rss"
+                xmlUrl="http://www.cloudidentity.com/blog/feed/" htmlUrl="http://www.cloudidentity.com/blog/"/>
+            <outline text="Cloudy Thoughts by SytaxC4 (Cory Fowler)" 
+                title="Cloudy Thoughts by SytaxC4 (Cory Fowler)" type="rss" 
+                xmlUrl="http://blog.syntaxc4.net/feed" htmlUrl="http://blog.syntaxc4.net/"/>
+            <outline text="Just a moment... David has a thought (David Makogon)"
+                title="Just a moment... David has a thought (David Makogon)" type="rss"
+                xmlUrl="http://feeds.feedburner.com/DavidMakogon" htmlUrl="http://www.davidmakogon.com/"/>
+            <outline text="ScottGu's Blog" title="ScottGu's Blog"
+                type="rss"
+                xmlUrl="http://weblogs.asp.net/scottgu/rss.aspx" htmlUrl="http://weblogs.asp.net/scottgu/default.aspx"/>
+            <outline text="Wenming's Big Data and Big Compute Blog (Wen-ming Ye)" 
+                title="Wenming's Big Data and Big Compute Blog (Wen-ming Ye)" type="rss" 
+                xmlUrl="http://blogs.msdn.com/b/hpctrekker/rss.aspx" htmlUrl="http://blogs.msdn.com/b/hpctrekker/"/>
+        </outline>
+
+        <outline title="Windows Azure MVP Blogs" text="Windows Azure MVP Blogs">
+            <outline text="Anton Staykov's Blog " 
+                title="Anton Staykov's Blog " type="rss" 
+                xmlUrl="http://feeds.feedburner.com/astaykov" htmlUrl="http://blogs.staykov.net/"/>
+            <outline text="Coding Out Loud (Bill Wilder)" title="Yes, another noisy coder..."
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/codingoutloud" htmlUrl="http://blog.codingoutloud.com"/>
+            <outline text="Convective (Neil Mackenzie)" title="Heading up to the cloud" type="rss"
+                xmlUrl="http://convective.wordpress.com/feed/" htmlUrl="http://convective.wordpress.com"/>
+            <outline text="David Pallmann's Technology Blog"
+                title="David Pallmann's Technology Blog" type="rss"
+                xmlUrl="http://davidpallmann.blogspot.com/feeds/posts/default" htmlUrl="http://davidpallmann.blogspot.com/"/>
+            <outline text="Distributed Computing"
+                title="Distributed Computing" type="rss"
+                xmlUrl="http://distributedcomputing.us/rss" htmlUrl="http://distributedcomputing.us/"/>
+            <outline text="Herve Roggero" 
+                title="Herve Roggero" type="rss" 
+                xmlUrl="http://geekswithblogs.net/hroggero/Rss.aspx" htmlUrl="http://geekswithblogs.net/hroggero/Default.aspx"/>
+            <outline text="Maarten Balliauw {blog} ASP.NET, ASP.NET MVC, Windows Azure, PHP, ..." 
+                title="Maarten Balliauw {blog} ASP.NET, ASP.NET MVC, Windows Azure, PHP, ..." type="rss" 
+                xmlUrl="http://blog.maartenballiauw.be/syndication.axd" htmlUrl="http://blog.maartenballiauw.be/"/>
+            <outline text="Michael S. Collier's Blog" 
+                title="Microsoft development, Windows Azure and more fun stuff!" type="rss" 
+                xmlUrl="http://michaelcollier.wordpress.com/feed/" htmlUrl="http://michaelcollier.wordpress.com/"/>  
+            <outline text="Matias Woloski" title="Matias Woloski"
+                type="rss" xmlUrl="http://feeds.southworks.net/mwoloski" htmlUrl="http://blogs.southworks.net/mwoloski"/>
+            <outline text="Nuno Filipe Godinho (All about .NET Development and Architecture)" 
+                title="Nuno Filipe Godinho (All about .NET Development and Architecture)" type="rss" 
+                xmlUrl="http://feeds.feedburner.com/msmvps/NunoGodinho" htmlUrl="http://msmvps.com/blogs/nunogodinho/"/>
+            <outline text="MikeWo's Musings: Blog (Mike Wood)"
+                title="MikeWo's Musings: Blog (Mike Wood)" type="rss"
+                xmlUrl="http://feeds.feedburner.com/mikewo" htmlUrl="http://mvwood.com/blog/"/>
+            <outline text="RobinDotNet's Blog (Robin Shahan)"
+                title="RobinDotNet's Blog (Robin Shahan)" type="rss"
+                xmlUrl="http://robindotnet.wordpress.com/feed/" htmlUrl="http://robindotnet.wordpress.com"/>
+        </outline>
+
+        <outline title="Azure Insiders" text="Azure Insiders">
+            <outline text="Jason Haley" title="Jason Haley" type="rss"
+                xmlUrl="http://jasonhaley.com/blog/Rss.aspx" htmlUrl="http://jasonhaley.com/blog/"/>
+            <outline text="Nate Pickett's Blog"
+                title="Nate Pickett's Blog" type="rss"
+                xmlUrl="http://natepickett.blogspot.com/feeds/posts/default" htmlUrl="http://natepickett.blogspot.com/"/>
+        </outline>
+
+        <outline title="Windows Azure Community Blogs" text="Windows Azure Community Blogs. Not Windows Azure Product Team members or Windows Azure MVPs or Azure Insiders, but these could be other Microsoft employees and other community members who happen to produce interesting Windows Azure-oriented blogs.">
+            <outline text="David Chappell's Blog :: Opinari"
+                title="David Chappell's Blog :: Opinari" type="rss"
+                xmlUrl="http://davidchappellopinari.blogspot.com/feeds/posts/default" htmlUrl="http://davidchappellopinari.blogspot.com/"/>
+            <outline text=The Data Farm (Julie Lerman's World of Data)"
+                title="The Data Farm (Julie Lerman's World of Data)" type="rss"
+                xmlUrl="http://thedatafarm.com/feed/" htmlUrl="http://thedatafarm.com/blog/"/>
+        </outline>
+
+        <outline title="General Cloud Blogs" text="General Cloud Blogs. Not specific to Windows Azure.">
+            <outline text="Adrian Cockcroft's Blog"
+                title="Adrian Cockcroft's Blog" type="rss"
+                xmlUrl="http://perfcap.blogspot.com/feeds/posts/default" htmlUrl="http://perfcap.blogspot.com/"/>
+            <outline text="All Things Distributed"
+                title="All Things Distributed" type="rss"
+                xmlUrl="http://www.allthingsdistributed.com/index.xml" htmlUrl="http://www.allthingsdistributed.com"/>
+            <outline
+                text="High Scalability - Building bigger, faster, more reliable websites."
+                title="High Scalability - Building bigger, faster, more reliable websites."
+                type="rss" xmlUrl="http://www.highscalability.com/rss.xml" htmlUrl="http://highscalability.com/blog/"/>
+        </outline>
+    </body>
+</opml>
