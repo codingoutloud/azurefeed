@@ -38,10 +38,13 @@
         </outline>
 
         <outline title="Windows Azure MVP Blogs" text="Windows Azure MVP Blogs">
-            <outline text="Coding Out Loud (Bill Wilder)" title="Yes, another noisy coder..."
+           <outline text="Coding Out Loud (Bill Wilder)" title="Yes, another noisy coder..."
                 type="rss"
                 xmlUrl="http://feeds.feedburner.com/codingoutloud" htmlUrl="http://blog.codingoutloud.com"/>
-        </outline>
+	   <outline text="Alexandre Brisebois | Helping you to make informed decisions" title="Alexandre Brisebois | Helping you to make informed decisions"
+                type="rss"
+                xmlUrl="http://alexandrebrisebois.wordpress.com/feed/" htmlUrl="http://alexandrebrisebois.wordpress.com"/>        
+	</outline>
 
         <outline title="Azure Insiders" text="Azure Insiders">
         </outline>
